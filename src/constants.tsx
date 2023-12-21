@@ -1,0 +1,6 @@
+export const ROLES = {
+  IFA: "IFA",
+  PFCR: "PROSPECTIVE_FOSTER_CARER",
+  FCR: "FOSTER_CARER",
+  FC: "FOSTER_CHILD",
+};
